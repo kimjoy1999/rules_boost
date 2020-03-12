@@ -2008,3 +2008,7 @@ boost_library(
 boost_library(
     name = "sort",
 )
+
+boost_library(
+    name = "dll",
+)
